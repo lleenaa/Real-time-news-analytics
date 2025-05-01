@@ -18,4 +18,4 @@ This project is a real-time big data analytics system for news sentiment and tre
 - Streamlit dashboard with visual insights
 
 ## System Architecture
-
+![Image](https://github.com/user-attachments/assets/b3e0241b-3fad-4d36-ba6e-4da3d2ea38ff)
